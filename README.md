@@ -1,6 +1,6 @@
 # Example of Nuxt project
 
-[Open Project's Web page](https://wizardly-mayer-9ff468.netlify.com/)
+[Open Project's Web page](https://5cb17366bc514cc66974d8c9--amazing-kowalevski-68dd79.netlify.com/)
 
 ## Build Setup
 
